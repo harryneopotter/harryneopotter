@@ -50,7 +50,7 @@ Lightweight project summary generator that bootstraps AI agent context. Scans co
 
 **Tech:** Python, AST parsing, Hash-based change detection
 
-[teacher-website-public](https://github.com/harryneopotter/teacher-website-public)
+[telegram-cms-website-public](https://github.com/harryneopotter/telegram-cms-website-public)
 ----------------------------------------------------------------------------------
 
 **Built with 💜 for accessibility, dignity, and creativity**
